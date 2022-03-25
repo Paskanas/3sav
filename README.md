@@ -4,9 +4,9 @@
 ![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg)
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 
-# Yoga project
+# 3 week assigment
 
-_5-sign-up website project_
+_3 week assigment web project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
@@ -15,6 +15,9 @@ Site published at: https://Paskanas.github.io/3sav/
 Design: design is shown in dizainas.png file
 
 ## Project features
+
+- HTML
+- CSS
 
 ## Authors
 
