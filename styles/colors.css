@@ -1,23 +1,21 @@
 .column > .color1 {
-  background-color: #70c0c9;
-  color: #70c0c9;
+  --color: #70c0c9;
 }
 .column > .color2 {
-  background-color: #4074bd;
-  color: #4074bd;
+  --color: #4074bd;
 }
 .column > .color3 {
-  background-color: #e05e46;
-  color: #e05e46;
+  --color: #e05e46;
 }
 .column > .color4 {
-  background-color: #919191;
-  color: #919191;
+  --color: #919191;
 }
 
-[class^='color'] {
+.column > [class^='color'] {
   width: 200px;
   height: 200px;
   position: relative;
   border-radius: 4px;
+  background-color: var(--color);
+  color: var(--color);
 }
